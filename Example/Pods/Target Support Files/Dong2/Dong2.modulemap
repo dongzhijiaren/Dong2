@@ -1,0 +1,6 @@
+framework module Dong2 {
+  umbrella header "Dong2-umbrella.h"
+
+  export *
+  module * { export * }
+}
