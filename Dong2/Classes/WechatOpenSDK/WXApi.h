@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "WXApiObject.h"
-
+//来自微信openSDK
 NS_ASSUME_NONNULL_BEGIN
 
 #pragma mark - WXApiDelegate
