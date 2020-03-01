@@ -41,7 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		01D478C756E20D18D8A06D2889844D49 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		01D478C756E20D18D8A06D2889844D49 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		0F62E76C07AC3CE982AC965CD8381C9B /* libWeChatSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libWeChatSDK.a; path = Dong2/Classes/WechatOpenSDK/libWeChatSDK.a; sourceTree = "<group>"; };
 		0FDE84A49FB4D499EBB47643C0330AE1 /* Pods-Dong2_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dong2_Tests-umbrella.h"; sourceTree = "<group>"; };
 		145E355BB5D56B27B674058F4BA5C3E1 /* Pods-Dong2_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Dong2_Example-frameworks.sh"; sourceTree = "<group>"; };
@@ -49,7 +49,7 @@
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		35E56D0F5EF7157AB1EBAA3D7D7301CA /* Pods-Dong2_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Dong2_Tests-Info.plist"; sourceTree = "<group>"; };
 		3950388AB3CF77E39602C71234420954 /* Pods-Dong2_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Dong2_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		444993123D62733F536AFE394FEE00F9 /* Pods_Dong2_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Dong2_Example.framework; path = "Pods-Dong2_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		444993123D62733F536AFE394FEE00F9 /* Pods_Dong2_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Dong2_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		468BA249DF513773B6396179F14A47AC /* Dong2-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Dong2-prefix.pch"; sourceTree = "<group>"; };
 		4C42CF829E4C6AC96294D91289B616B9 /* Pods-Dong2_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Dong2_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		516E68113F45FC79183F51DC7B124521 /* Dong2-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Dong2-umbrella.h"; sourceTree = "<group>"; };
@@ -59,13 +59,13 @@
 		6776A71E1A203EFC4937360169616022 /* Pods-Dong2_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Dong2_Example.modulemap"; sourceTree = "<group>"; };
 		6DCF6F96FA4F4A40E692AD048AE35602 /* Pods-Dong2_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Dong2_Example-Info.plist"; sourceTree = "<group>"; };
 		6F7AD3D84ACB8AC9617578FE7024CA40 /* Pods-Dong2_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Dong2_Tests-dummy.m"; sourceTree = "<group>"; };
-		71A829DE24457E108FB1AC1158D29234 /* Dong2.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Dong2.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		71A829DE24457E108FB1AC1158D29234 /* Dong2.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = Dong2.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		7E1FBBADBB7F4743D0CF3A494F49E5B9 /* Pods-Dong2_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Dong2_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		84EB122AFC00EC0779967809D483753A /* Pods_Dong2_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Dong2_Tests.framework; path = "Pods-Dong2_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		927FFBC1A4A9CF27BEBCAEE806060EE3 /* Dong2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Dong2.framework; path = Dong2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		96DE0E65D835E804CBEE767BA982FFA0 /* README.txt */ = {isa = PBXFileReference; includeInIndex = 1; name = README.txt; path = Dong2/Classes/WechatOpenSDK/README.txt; sourceTree = "<group>"; };
-		99B2AF9FDC61ACBF1E1E8B6CC1A891C6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		84EB122AFC00EC0779967809D483753A /* Pods_Dong2_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Dong2_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		927FFBC1A4A9CF27BEBCAEE806060EE3 /* Dong2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Dong2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		96DE0E65D835E804CBEE767BA982FFA0 /* README.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = README.txt; path = Dong2/Classes/WechatOpenSDK/README.txt; sourceTree = "<group>"; };
+		99B2AF9FDC61ACBF1E1E8B6CC1A891C6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A01A1AE470184F5C928C0194B2C24AC5 /* Pods-Dong2_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dong2_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		A1C6997CDDDE58B17BAAE159109ACB3A /* Pods-Dong2_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Dong2_Tests.modulemap"; sourceTree = "<group>"; };
 		A5FA5E934ABD5953CBC0008C7DBD73AA /* Dong2.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Dong2.modulemap; sourceTree = "<group>"; };
@@ -504,8 +504,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
